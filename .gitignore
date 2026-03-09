@@ -1,0 +1,6 @@
+*.csv
+.idea
+/data
+.ipynb_checkpoints
+.ipyng_checkpoints
+.DS_Store
